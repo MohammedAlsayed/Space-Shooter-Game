@@ -1,4 +1,5 @@
 # Space-Shooter-Game
+This is a project of my university java programming course (ICS 201).
 A game where the user controls a space ship around the screen and shoot down enemies.
 
 ------- Project Description ------
